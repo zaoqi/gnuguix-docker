@@ -1,8 +1,9 @@
 # gnuguix-docker
 Dockerfile for GNU Guix
 
+Docker hub: https://hub.docker.com/r/zaoqi/guix
 
-https://hub.docker.com/r/zaoqi/guix
+Dockerfile: https://github.com/zaoqi/gnuguix-docker
 
 GNU Guix requires `--privileged` to run.
 
